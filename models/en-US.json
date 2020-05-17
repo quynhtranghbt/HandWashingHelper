@@ -11,6 +11,19 @@
 				"Wash my hands"
 			]
 		},
+		{"name": "YesIntent",
+			"phrases":["yes", "sure", "yeah", "okay", "I am ready", "I'm ready", "ready", "ready to wash", "ready to clean"]
+
+		},
+		{"name": "StopIntent",
+			"phrases":["stop", "stop the app"]
+
+		},
+
+		{"name": "NoIntent",
+			"phrases":["no", "nah", "not really", "nope", "not ready", "I am not ready", "I don't know"]
+
+		},
 		{
 			"name": "HelloWorldIntent",
 			"phrases": [
