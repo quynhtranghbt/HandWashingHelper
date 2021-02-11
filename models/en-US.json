@@ -11,6 +11,12 @@
 				"Wash my hands"
 			]
 		},
+		
+		{"name": "StopIntent",
+			"phrases":["stop", "stop the app"]
+
+		},
+
 		{
 			"name": "HelloWorldIntent",
 			"phrases": [
